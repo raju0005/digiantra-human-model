@@ -1,0 +1,21 @@
+{
+  "name": "digiantra",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.6",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.6",
+    "@tweenjs/tween.js": "^25.0.0",
+    "gsap": "^3.13.0",
+    "three": "^0.176.0"
+  }
+}
