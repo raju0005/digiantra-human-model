@@ -46,7 +46,7 @@ The scene includes:
 ## 🛠️ Installation & Usage
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/digiantra-human-model.git
+git clone https://github.com/raju0005/digiantra-human-model.git
 cd digiantra-human-model
 ```
 2. Install dependencies :
